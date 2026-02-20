@@ -103,8 +103,8 @@ Base de datos relacional (MySQL)
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/EnzoFiglioli/tablero-webapp.git
-cd tablero-webapp
+git clone https://github.com/EnzoFiglioli/tabl3ro-backend.git
+cd tabl3ro-backend
 ```
 
 ---
